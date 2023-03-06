@@ -1,0 +1,7 @@
+
+Warning: Module "msgpack" is already loaded in Unknown on line 0
+
+Fatal error: Uncaught Error: Call to undefined function msg_queue_exists() in C:\xampp\htdocs\teste_pj\deamon.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\teste_pj\deamon.php on line 7
